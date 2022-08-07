@@ -21,12 +21,12 @@ public class Login {
 
 	@When("enter username")
 	public void enterUsername() {
-		loginPage.enterUser(TestDataLoader.propertiesFileReader("email"));
+		loginPage.enterUser(System.getProperty("email"));
 	}
 
 	@When("enter password")
 	public void enterPassword() {
-		loginPage.enterPassword(TestDataLoader.propertiesFileReader("password"));
+		loginPage.enterPassword(System.getProperty("password"));
 	}
 
 	@When("click on login")
