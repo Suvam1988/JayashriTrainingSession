@@ -1,8 +1,0 @@
-com\advancedselenium\org\jayashrirasane\hooks\DriverInit.class
-com\advancedselenium\org\jayashrirasane\pages\HomePage.class
-com\advancedselenium\org\jayashrirasane\runner\FreeCRMRunnerTest.class
-com\advancedselenium\org\jayashrirasane\framework\TestDataLoader.class
-com\advancedselenium\org\jayashrirasane\glue\Login.class
-com\advancedselenium\org\jayashrirasane\framework\CommonUtilities.class
-com\advancedselenium\org\jayashrirasane\pages\LoginPage.class
-com\advancedselenium\org\jayashrirasane\runner\FreeCRMRunner.class
